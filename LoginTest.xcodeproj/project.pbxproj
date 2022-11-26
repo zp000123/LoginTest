@@ -14,6 +14,7 @@
 		F8067B4529320A7600D3800D /* LoginTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8067B4429320A7600D3800D /* LoginTestTests.swift */; };
 		F8067B4F29320A7600D3800D /* LoginTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8067B4E29320A7600D3800D /* LoginTestUITests.swift */; };
 		F8067B5129320A7600D3800D /* LoginTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8067B5029320A7600D3800D /* LoginTestUITestsLaunchTests.swift */; };
+		F8067B5E2932251500D3800D /* CheckBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8067B5D2932251500D3800D /* CheckBoxView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F8067B4A29320A7600D3800D /* LoginTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8067B4E29320A7600D3800D /* LoginTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTestUITests.swift; sourceTree = "<group>"; };
 		F8067B5029320A7600D3800D /* LoginTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F8067B5D2932251500D3800D /* CheckBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBoxView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F8067B3529320A7500D3800D /* ContentView.swift */,
 				F8067B3729320A7600D3800D /* Assets.xcassets */,
 				F8067B3929320A7600D3800D /* Preview Content */,
+				F8067B5D2932251500D3800D /* CheckBoxView.swift */,
 			);
 			path = LoginTest;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8067B3629320A7500D3800D /* ContentView.swift in Sources */,
+				F8067B5E2932251500D3800D /* CheckBoxView.swift in Sources */,
 				F8067B3429320A7500D3800D /* LoginTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
